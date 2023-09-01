@@ -6,4 +6,4 @@ Step 2: Execute the notebook
 
 Dataset link - https://raw.githubusercontent.com/Pravalika05/Stock-Price-Prediction-using-RNN/main/AMZN.csv
 
-##Predicting Amazon closing price of stock using RNN.
+# Amazon Stock Price Prediction using RNN considering the closing price has a criteria for stock prediction. The RNN model is build from scratch without using any framework. 
