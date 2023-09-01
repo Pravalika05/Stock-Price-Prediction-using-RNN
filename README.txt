@@ -6,4 +6,4 @@ Step 2: Execute the notebook
 
 Dataset link - https://raw.githubusercontent.com/Pravalika05/Stock-Price-Prediction-using-RNN/main/AMZN.csv
 
-Number Late Days used: 0
+##Predicting Amazon closing price of stock using RNN.
